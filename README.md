@@ -6,8 +6,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/absharulhuda-sayed-187227195/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/absharulhuda-sayed-187227195/" height="30" width="40" /></a>
   
 <a href="https://drive.google.com/file/d/1Q-U9vm2CP08LeGwICc7Et9TIKi21pzrn/view?usp=sharing" target="blank"><img align="center" src="https://www.gstatic.com/images/branding/product/1x/docs_2020q4_48dp.png" alt="https://www.linkedin.com/in/absharulhuda-sayed-187227195/"
-alt="Resume" height="30" width="40" />
-<h4>Resume</h4>
+alt="Resume" height="30" width="40"><h4>Resume</h4></img>
 </a>
 
 <h3 align="left">Languages and Tools:</h3>
